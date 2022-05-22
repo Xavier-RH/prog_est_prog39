@@ -1,4 +1,4 @@
-/* Autor: Xavier Romero Hern·ndez, Realizado: 24/03/2022 
+/* Autor: Xavier Romero Hern√°ndez, Realizado: 24/03/2022 
 	Programa que almacena las calificaciones de un alumno y su faltas para un grupo de 10 alumnos
 	El programa tendra las siguientes opciones:
 		0. Salir
