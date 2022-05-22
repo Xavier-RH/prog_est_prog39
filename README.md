@@ -25,12 +25,12 @@ Presenta el uso de:
 <p><b>Breve descripcion:</b><br>
 El programa almacena las calificaciones de un alumno y su faltas para un grupo de 10 alumnos, opera con mediante un menú<br>
 El programa tiene las siguientes opciones:
-  <ul>
+  <ol start="0">
     <li>Salir</li>
     <li>Introducir datos del alumno (calificaciones y faltas)</li>
     <li>Imprimir</li>
     <li>Promedio del grupo</li>
     <li>Cuantos aprobaron</li>
     <li>Porcentaje de asistencia de cada alumno (32 asistencias)</li>
-  </ul>
+  </ol>
 </p>
